@@ -1,0 +1,1 @@
+CREATE DATABASE postgres-jwt-auth VERSION 3;
